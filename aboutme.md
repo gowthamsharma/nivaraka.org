@@ -1,16 +1,15 @@
 ---
-title: About me
+title: About us
+subtitle: "“When the whole world is silent, even one voice becomes powerful.” \n―
+  Malala Yousafzai,"
 layout: page
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## 
+This is a platform for every girl every women from all around the world to unravel the power with in them and showcase their strength to the world.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This platform will be contributed by powerful stories shared to us from girls and women from all around the world who would like to share their pain, their suffering, their endurance and their strengths to the world so that their stories can change or at least influence the fate of someone who is going through a similar phase in their life!
 
-What else do you need?
+If you think that the nightmare that happened in your life is worth sharing to the world or you want to get the pain you endure out of your heart , send your story to mystory@nivaraka.org 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The stories you share should be worth sharing to the world and should create impact in the society, these stories may be regard to protecting identity of a women, her stature in the society, her education or these stories may ask justice about basic facilities like health, safety, and welfare by the government.
