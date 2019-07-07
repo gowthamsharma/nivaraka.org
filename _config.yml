@@ -23,7 +23,7 @@ defaults:
     show-avatar: true
 description: i endure
 navbar-links:
-  About Me: aboutme
+  About us: aboutme
 avatar: "/img/avatar-icon.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
